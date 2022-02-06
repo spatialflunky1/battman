@@ -1,7 +1,7 @@
 # Battman
 
 ### Description
-Small program to display battery status written in c++
+Small program to display battery status for laptops written in c++
 
 ## How to compile
 In terminal run:
