@@ -3,10 +3,11 @@
 ### Description
 Small program to display battery status for laptops written in c++
 
-## How to compile
+## How to install
 In terminal run:
 ```
-g++ main.cpp -o battman
+make
+sudo make install
 ```
 
 ## Dependencies (At the moment):
