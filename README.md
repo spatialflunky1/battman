@@ -15,6 +15,6 @@ sudo make install
 * Linux
 
 ## Note:
-Only works if you have a BAT0(battery) and ADP0(power input) device
+Only works if you have a BAT0(battery) and ADP0(power input) device, this can be changed in source to match the device name of your battery and power input.
 
 Check main.cpp for the device path in question
